@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4B66AA3B18BD9D8400CE5AF3"
-               BuildableName = "Time Money Converter.app"
-               BlueprintName = "Time Money Converter"
-               ReferencedContainer = "container:Time Money Converter.xcodeproj">
+               BuildableName = "Simple Inflation Calculator.app"
+               BlueprintName = "Simple Inflation Calculator"
+               ReferencedContainer = "container:Simple Inflation Calculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4B66AA5C18BD9D8400CE5AF3"
-               BuildableName = "Time Money ConverterTests.xctest"
-               BlueprintName = "Time Money ConverterTests"
-               ReferencedContainer = "container:Time Money Converter.xcodeproj">
+               BuildableName = "Simple Inflation CalculatorTests.xctest"
+               BlueprintName = "Simple Inflation CalculatorTests"
+               ReferencedContainer = "container:Simple Inflation Calculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4B66AA3B18BD9D8400CE5AF3"
-            BuildableName = "Time Money Converter.app"
-            BlueprintName = "Time Money Converter"
-            ReferencedContainer = "container:Time Money Converter.xcodeproj">
+            BuildableName = "Simple Inflation Calculator.app"
+            BlueprintName = "Simple Inflation Calculator"
+            ReferencedContainer = "container:Simple Inflation Calculator.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4B66AA3B18BD9D8400CE5AF3"
-            BuildableName = "Time Money Converter.app"
-            BlueprintName = "Time Money Converter"
-            ReferencedContainer = "container:Time Money Converter.xcodeproj">
+            BuildableName = "Simple Inflation Calculator.app"
+            BlueprintName = "Simple Inflation Calculator"
+            ReferencedContainer = "container:Simple Inflation Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4B66AA3B18BD9D8400CE5AF3"
-            BuildableName = "Time Money Converter.app"
-            BlueprintName = "Time Money Converter"
-            ReferencedContainer = "container:Time Money Converter.xcodeproj">
+            BuildableName = "Simple Inflation Calculator.app"
+            BlueprintName = "Simple Inflation Calculator"
+            ReferencedContainer = "container:Simple Inflation Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

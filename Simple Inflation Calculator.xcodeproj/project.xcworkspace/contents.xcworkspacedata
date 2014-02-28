@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Time Money Converter.xcodeproj">
+      location = "self:Simple Inflation Calculator.xcodeproj">
    </FileRef>
 </Workspace>
